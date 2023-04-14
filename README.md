@@ -10,9 +10,9 @@ This repository is submitted to Nanyang Technological University as part of a gr
 School of Computer Science and Engineering, NTU Singapore
 AY2022/23 SC1015 Y127 Group 1
 
-NG YAO HONG NGYA0021@E.NTU.EDU.SG (Data Preparation, Exploratory Data Analysis, Machine Learning)
-TAN KAI JIE DARYL TANK0301@E.NTU.EDU.SG (Machine Learning)
-LAU ETHAN LAUE0006@E.NTU.EDU.SG (Machine Learning)
+NG YAO HONG NGYA0021@E.NTU.EDU.SG (Data Preparation, Exploratory Data Analysis, Machine Learning)    
+TAN KAI JIE DARYL TANK0301@E.NTU.EDU.SG (Machine Learning)    
+LAU ETHAN LAUE0006@E.NTU.EDU.SG (Machine Learning)    
 
 ## Folders
 ### Datasets Folder
