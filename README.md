@@ -25,7 +25,7 @@ For detailed walkthrough, please view the source code in order from:
 
 1. Complete Data Cleaning & Visualization
 2. Data Visualization via Tableau
-3. Machine Learning 1 (LinearRegression, DecisionTreeClassifier, RandomForestClassifier)
+3. Machine Learning 1 (DecisionTreeClassifier, RandomForestClassifier)
 4. Machine Learning 2 (BalancedBaggingClassifier, BalancedRandomForestClassifier)
 5. Machine Learning 3 (LogisticRegression)
 
@@ -37,21 +37,20 @@ For detailed walkthrough, please view the source code in order from:
 * Which model would be the best to predict occurence of Heart Stroke?
 
 ## Models Used
-1. Ordinary Least Squares (OLS) Linear Regression
-2. OneHotEncoder
-3. Grid Search Cross-Validation
-4. Decision Tree Classifier
-5. Random Forest Classifier
-6. Balanced Bagging Classifier
-7. Balanced Random Forest Classifier
-8. Logistic Regression
+1. OneHotEncoder
+2. Grid Search Cross-Validation
+3. Decision Tree Classifier
+4. Random Forest Classifier
+5. Balanced Bagging Classifier
+6. Balanced Random Forest Classifier
+7. Logistic Regression
 
 ## Conclusion
 * No linear relationship between the numerical variables and Heart Stroke.
 
 ## What did we learn from this project?
 * Scikit-learn:
-    * Regression: OLS Linear Regression, Logistic Regression
+    * Regression: Logistic Regression
     * Classification: Decision Tree Classifier, Random Forest Classifier
 * ImbLearn:
     * Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
