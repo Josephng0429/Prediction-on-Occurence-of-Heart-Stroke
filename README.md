@@ -63,6 +63,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ## References
 * The National Institute for Occupational Safety and Health (NIOSH). (2022, May 13). Heat stress related illness. Centers for Disease Control and Prevention.  https://www.cdc.gov/niosh/topics/heatstress/heatrelillness.html#:~:text=Heat%20Stroke,-Heat%20stroke%20is&amp;text=It%20occurs%20when%20the%20body,within%2010%20to%2015%20minutes.    
+* World Health Organization. Cardiovascular diseases. World Health Organization. https://www.who.int/health-topics/cardiovascular-diseases 
 * Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12, pp. 2825-2830.‌​   
 * What is Cross Validation in Machine Learning? Types of Cross Validation. (2020, September 24). GreatLearning Blog: Free Resources What Matters to Shape Your Career! https://www.mygreatlearning.com/blog/cross-validation/ ​   
 * Imbalanced Data | Data Preparation and Feature Engineering for Machine Learning | Google Developers. (2021). Google Developers. https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data ​   
