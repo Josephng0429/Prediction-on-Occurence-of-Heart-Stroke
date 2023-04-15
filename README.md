@@ -60,3 +60,14 @@ For detailed walkthrough, please view the source code in order from:
 * Tableau:
     * Visualization: Tableau desktop, Tableau public
 * Collaborating on Github
+
+## References
+* The National Institute for Occupational Safety and Health (NIOSH). (2022, May 13). Heat stress related illness. Centers for Disease Control and Prevention.  https://www.cdc.gov/niosh/topics/heatstress/heatrelillness.html#:~:text=Heat%20Stroke,-Heat%20stroke%20is&amp;text=It%20occurs%20when%20the%20body,within%2010%20to%2015%20minutes.    
+* Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12, pp. 2825-2830.‌​   
+* What is Cross Validation in Machine Learning? Types of Cross Validation. (2020, September 24). GreatLearning Blog: Free Resources What Matters to Shape Your Career! https://www.mygreatlearning.com/blog/cross-validation/ ​   
+* Imbalanced Data | Data Preparation and Feature Engineering for Machine Learning | Google Developers. (2021). Google Developers. https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data ​   
+* Bento, C. (2021, June 28). Decision Tree Classifier explained in real-life: picking a vacation destination. Medium; Towards Data Science. https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575 ​      
+* Yadav, D. (2019, December 6). Categorical encoding using Label-Encoding and One-Hot-Encoder. Medium; Towards Data Science. https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd ​   
+* Lemaître, G., Nogueira, F., & Aridas, C. K. (2017). Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning. Journal of Machine Learning Research, 18(17), 1–5. https://jmlr.org/papers/v18/16-365.html ​    
+* IBM Cloud Education. (2021, May 11). What is Bagging? Ibm.com. https://www.ibm.com/cloud/learn/bagging#:~:text=Bagging%2C%20also%20known%20as%20bootstrap,be%20chosen%20more%20than%20once ​   
+
