@@ -55,7 +55,7 @@ For detailed walkthrough, please view the source code in order from:
 * ImbLearn:
     * Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
 * Others:
-    * Utility models: Simple Imputer, Standard Scalar, One Hot Encoder, Resample, Grid Search CV, Eli5
+    * Utility models: One Hot Encoder, Resample, Grid Search CV, Eli5
 * Tableau:
     * Visualization: Tableau desktop, Tableau public
 * Collaborating on Github
