@@ -47,6 +47,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Conclusion
 * No linear relationship between the numerical variables and Heart Stroke.
+* The data indicates that men and people with lower levels of education are at a higher risk for experiencing positive heart strokes. As such, it is crucial to promote health education and awareness, particularly among males, in order to mitigate the risk of heart stroke.
 
 ## What did we learn from this project?
 * Scikit-learn:
