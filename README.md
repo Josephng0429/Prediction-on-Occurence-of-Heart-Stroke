@@ -19,6 +19,7 @@ LAU ETHAN LAUE0006@E.NTU.EDU.SG (Machine Learning)
 * heart_disease_data: original dataset from kaggle
 * heart_dis_cln: original dataset cleaned with 17 columns, no NULL, removed outliers
 * heart_dis_cln_ohe: heart_dis_cln with categorical variables being one hot encoded
+* heart_dis_cln_ohe_up: heart_dis_cln_ohe after resampling (upsampling) the sample size of those with the occurrence of HEART_STROKE to the size of those without the occurrence of HEART_STROKE.
 
 ## Jupyter Notebook Folder
 For detailed walkthrough, please view the source code in order from:
@@ -48,6 +49,8 @@ For detailed walkthrough, please view the source code in order from:
 ## Conclusion
 * No linear relationship between the numerical variables and Heart Stroke.
 * The data indicates that men and people with lower levels of education are at a higher risk for experiencing positive heart strokes. As such, it is crucial to promote health education and awareness, particularly among males, in order to mitigate the risk of heart stroke.
+* AFter exploring various ML models and tools to utilise them, we compared their test accuracies in predicting the response variable as well as the balance of accuracy between the various categories. We eventually came to a conclusion that BalancedBaggingClassifier is the best model as it has good balance of accuracy as well as the highest numerical accuracy value out of all the models explored.
+* This raises the possibility that the BalancedBaggingClassifier can perhaps be used in medical industry to predict the occurrence of Heart Stroke within a patient, given the other variables.
 
 ## What did we learn from this project?
 * Scikit-learn:
