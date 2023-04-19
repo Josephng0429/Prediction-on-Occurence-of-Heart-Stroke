@@ -16,22 +16,23 @@ LAU ETHAN LAUE0006@E.NTU.EDU.SG (Machine Learning)
 
 ## Folders
 ### Datasets Folder
-* heart_disease_data: original dataset from kaggle
-* heart_dis_cln: original dataset cleaned with 17 columns, no NULL, removed outliers
-* heart_dis_cln_ohe: heart_dis_cln with categorical variables being one hot encoded
-* heart_dis_cln_ohe_up: heart_dis_cln_ohe after resampling (upsampling) the sample size of those with the occurrence of HEART_STROKE to the size of those without the occurrence of HEART_STROKE.
+* `heart_disease_data`: original dataset from kaggle
+* `heart_dis_cln`: original dataset cleaned with 17 columns, no NULL, removed outliers
+* `heart_dis_cln_ohe`: heart_dis_cln with categorical variables being one hot encoded
+* `heart_dis_cln_ohe_up`: heart_dis_cln_ohe after resampling (upsampling) the sample size of those with the occurrence of HEART_STROKE to the size of those without the occurrence of HEART_STROKE.
 
 ## Jupyter Notebook Folder
 For detailed walkthrough, please view the source code in order from:
 
-1. Complete Data Cleaning & Visualization
-2. Data Visualization via Tableau
-3. Machine Learning 1 (DecisionTreeClassifier, RandomForestClassifier)
-4. Machine Learning 2 (BalancedBaggingClassifier, BalancedRandomForestClassifier)
-5. Machine Learning 3 (LogisticRegression)
+1. [Complete Data Cleaning & Visualization](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Complete%20Data%20Cleaning%20&%20Visualization.ipynb)
+2. [Data Visualization via Tableau](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
+3. [Machine Learning 1](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Machine%20Learning%201.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
+4. [Machine Learning 2](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Machine%20Learning%202%20.ipynb) (BalancedBaggingClassifier, BalancedRandomForestClassifier)
+5. [Machine Learning 3](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Machine%20Learning%203.ipynb) (LogisticRegression)
 
 ## Others Folder
 * SC1015 Mini Project - Presentation: The slides provide a quick summary of our project.
+* Tableau Public Link: Link to Tableau Public.
 
 ## Problem Definition
 * How do different factors affect occurence of Heart Stroke?
