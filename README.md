@@ -24,11 +24,11 @@ LAU ETHAN LAUE0006@E.NTU.EDU.SG (Machine Learning)
 ## Jupyter Notebook Folder
 For detailed walkthrough, please view the source code in order from:
 
-1. [Complete Data Cleaning & Visualization](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Complete%20Data%20Cleaning%20&%20Visualization.ipynb)
-2. [Data Visualization via Tableau](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
+1. [Complete Data Cleaning & Visualization](https://github.com/ethxnol/SC1015-Project/blob/e96fdc7efc42980810ffe7cd2d525acbe2ffbb92/Jupyter%20Notebook/Complete%20Data%20Cleaning%20%26%20Visualization.ipynb)
+2. [Data Visualization via Tableau](https://github.com/ethxnol/SC1015-Project/blob/e96fdc7efc42980810ffe7cd2d525acbe2ffbb92/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
 3. [Machine Learning 1](https://github.com/ethxnol/SC1015-Project/blob/main/Jupyter%20Notebook/Machine%20Learning%201.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
-4. [Machine Learning 2](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Machine%20Learning%202%20.ipynb) (BalancedBaggingClassifier, BalancedRandomForestClassifier)
-5. [Machine Learning 3](https://github.com/ethxnol/SC1015-Project/blob/0042db2a0651e0ff41cac420552cd9df8ace57cc/Jupyter%20Notebook/Machine%20Learning%203.ipynb) (LogisticRegression)
+4. [Machine Learning 2](https://github.com/ethxnol/SC1015-Project/blob/e96fdc7efc42980810ffe7cd2d525acbe2ffbb92/Jupyter%20Notebook/Machine%20Learning%202%20.ipynb) (BalancedBaggingClassifier, BalancedRandomForestClassifier)
+5. [Machine Learning 3](https://github.com/ethxnol/SC1015-Project/blob/e96fdc7efc42980810ffe7cd2d525acbe2ffbb92/Jupyter%20Notebook/Machine%20Learning%203.ipynb) (LogisticRegression)
 
 ## Others Folder
 * SC1015 Mini Project - Presentation: The slides provide a quick summary of our project.
